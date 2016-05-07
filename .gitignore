@@ -1,0 +1,4 @@
+#folder loggs
+ignored_folder/
+#we can do ignore txt files only
+loggs/*.txt
